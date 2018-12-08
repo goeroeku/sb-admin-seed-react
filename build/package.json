@@ -1,8 +1,8 @@
 {
   "private": true,
   "engines": {
-    "node": ">=5.0 <7",
-    "npm": ">=3.3 <4"
+    "node": ">=5.0",
+    "npm": ">=3.3"
   },
   "dependencies": {
     "babel-polyfill": "6.13.0",
@@ -42,7 +42,7 @@
     "recharts": "^0.15.1",
     "sequelize": "3.24.1",
     "source-map-support": "0.4.2",
-    "sqlite3": "3.1.4",
+    "sqlite3": "4.0.4",
     "universal-router": "1.2.2",
     "whatwg-fetch": "1.0.0"
   },
